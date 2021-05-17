@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aminjon1065
 - 👀 I’m interested in everything :)
-- 🌱 I’m currently learning JS/Vue.js
+- 🌱 I’m currently learning JS/Vue.js/React.js
 - 💞️ I’m looking to collaborate on everyone
 - 📫 How to reach me => Tajikistan->Dushanbe or aminjon1065@gmail.com
 
